@@ -1,9 +1,9 @@
-# react-voice-input
-Voice input component for React.JS
-
 Source: https://www.npmjs.com/package/react-voice-input
 
 Continuing envato project for increase compatibility
+
+# react-voice-input
+Voice input component for React.JS
 
 ### Installation
 
