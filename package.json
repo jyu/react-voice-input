@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-voice-input@0.0.4",
+        "scope": null,
+        "escapedName": "react-voice-input",
+        "name": "react-voice-input",
+        "rawSpec": "0.0.4",
+        "spec": "0.0.4",
+        "type": "version"
+      },
+      "/mnt/c/Users/jerry/Documents/InvenTower/inventower-react"
+    ]
+  ],
+  "_from": "react-voice-input@0.0.4",
+  "_id": "react-voice-input@0.0.4",
+  "_inCache": true,
+  "_location": "/react-voice-input",
+  "_nodeVersion": "6.10.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-voice-input-0.0.4.tgz_1491876621702_0.2659791512414813"
+  },
+  "_npmUser": {
+    "name": "envato",
+    "email": "npm@envato.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-voice-input@0.0.4",
+    "scope": null,
+    "escapedName": "react-voice-input",
+    "name": "react-voice-input",
+    "rawSpec": "0.0.4",
+    "spec": "0.0.4",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-voice-input/-/react-voice-input-0.0.4.tgz",
+  "_shasum": "3c977005b7d8a900d726043f12501cf8b770a933",
+  "_shrinkwrap": null,
+  "_spec": "react-voice-input@0.0.4",
+  "_where": "/mnt/c/Users/jerry/Documents/InvenTower/inventower-react",
+  "author": {
+    "name": "npm@envato.com"
+  },
+  "bugs": {
+    "url": "https://github.com/envato/react-voice-input/issues"
+  },
+  "dependencies": {},
+  "description": "react voice input",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "3c977005b7d8a900d726043f12501cf8b770a933",
+    "tarball": "https://registry.npmjs.org/react-voice-input/-/react-voice-input-0.0.4.tgz"
+  },
+  "files": [
+    "lib"
+  ],
+  "gitHead": "245e6d4df8277d9e928946f1d97336c8f67a9866",
+  "homepage": "https://github.com/envato/react-voice-input#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "envato",
+      "email": "npm@envato.com"
+    }
+  ],
+  "name": "react-voice-input",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "^0.14.0 || ^15.0.0",
+    "react-dom": "^0.14.0 || ^15.0.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/envato/react-voice-input.git"
+  },
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "prepublish": "npm run build"
+  },
+  "version": "0.0.4"
+}
